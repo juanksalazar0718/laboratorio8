@@ -1,0 +1,39 @@
+ 
+        h1{
+            color: rgb(229, 255, 0);
+            font-size: 30 px;
+        }
+
+        p{
+            color: #048aa1;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        img{
+            border: 3px solid hwb(277 29% 10%) ;width: 30px;
+
+        }
+        h2{
+            color: #414545 ;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        h3{
+            color: hsl(190, 90%, 34%);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        ul{
+            color: #021313;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        ol{
+            color: #0c4bb9;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        dl{
+            color: #2b015f;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        dt{
+            color: #068cce;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
